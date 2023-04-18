@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WebView2.wpf/1.0.0": {
+        "dependencies": {
+          "Microsoft.Web.WebView2": "1.0.1722.45"
+        },
+        "runtime": {
+          "WebView2.wpf.dll": {}
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.1722.45": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.1722.45",
+            "fileVersion": "1.0.1722.45"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.1722.45",
+            "fileVersion": "1.0.1722.45"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.1722.45",
+            "fileVersion": "1.0.1722.45"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.1722.45"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.1722.45"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.1722.45"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebView2.wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2/1.0.1722.45": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KrR0p5HJW9CjhJEe/U3DgJ5FYQJ86adMwMF6wGkTlVh8G+8x9lk0NX6/wGdlBMYJ2rOy3V9PoJWuQ32n3t/Zvw==",
+      "path": "microsoft.web.webview2/1.0.1722.45",
+      "hashPath": "microsoft.web.webview2.1.0.1722.45.nupkg.sha512"
+    }
+  }
+}

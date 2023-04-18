@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ovNF3mG5KcjBucmmwgiIU5ganWAOmDWmN2lYzzHj8nbm8hG61fLrEBaOpm0y2eXz0ZN+fw36uk9tuc7uoewWRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kelly.osoba\\source\\repos\\WebView2.wpf\\WebView2.wpf\\WebView2.wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelly.osoba\\.nuget\\packages\\microsoft.web.webview2\\1.0.1722.45\\microsoft.web.webview2.1.0.1722.45.nupkg.sha512"
+  ],
+  "logs": []
+}
